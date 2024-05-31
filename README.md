@@ -19,3 +19,20 @@ This project analyzes departmental salaries to identify outliers and calculate v
    - The outlier count is determined by identifying salaries with a Z-score greater than 1.96 or less than -1.96.
    - Results are grouped by department, standard deviation, average, and coefficient of variation, and sorted by department for clarity.
 
+## Key Findings
+- Standard deviations and averages for departmental salaries.
+- Identification of outliers based on Z-scores.
+- Calculation of the coefficient of variation for each department.
+- Count of outliers per department.
+
+## Tools and Libraries
+- SQL
+- Database Management System (e.g., PostgreSQL, MySQL)
+
+## How to Use
+1. Clone the repository to your local machine.
+2. Run the SQL scripts in the provided order to replicate the analysis.
+3. Review the `README.md` and additional documentation for detailed steps and explanations.
+
+## Contributing
+Contributions are welcome! Please create a pull request with your proposed changes or enhancements.
